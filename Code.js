@@ -4,7 +4,6 @@ client.on('ready', () => {
 
 
   client.user.setGame(`تم التويتش من قبل اخوك فراس`,'https://www.twitch.tv/By:A7MD');
-  console.log('BOT ONLINE OP SHOP AND LAST COMUNITY y7bkm');
 });
 
 
